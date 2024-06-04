@@ -1,3 +1,4 @@
+#Sentiment-Analysis-of-Musical-Tracks
 INTRODUCTION 
 
 Music has always been a powerful tool for expressing and eliciting emotions - It can transport listeners to different emotional states, it uplifts people in their hours of sorrow, it calms peoples’ nerves before an important event - The sheer influence music has on our lives is impalpable. It, thus, can evoke a wide range of moods in one’s mind and body. By classifying the moods of songs, we can better understand the emotional impact of music and how it affects our behavior, thoughts, and feelings.
